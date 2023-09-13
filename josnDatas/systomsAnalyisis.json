@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Dipresión",
+        "description": "Depression is a common and serious mood disorder that affects how you feel, think, and handle daily activities. It can lead to a variety of emotional and physical problems and can decrease a person's ability to function at work and at home.",
+        "systoms": [
+            "Poor concentration",
+            "Lack of energy and motivation to work.",
+            "Fatigue, lack of appetite.",
+            "Increased heart rate.",
+            "Decrease in blood pressure."
+        ]
+    },
+    {
+        "title": "Insomnio",
+        "description": "Insomnia is a widespread sleep disorder characterized by difficulties in falling asleep, staying asleep, or experiencing restorative sleep. It can be either primary (not linked to other conditions) or secondary (resulting from underlying causes like medical issues, medications, or stress). Symptoms include fatigue, irritability, and impaired cognitive function, impacting overall quality of life. Insomnia can be managed through lifestyle changes, therapy, and medications, with treatment tailored to its underlying causes. It can have significant consequences on mental and physical health if left untreated.",
+        "systoms": [
+            "Sleeplessness",
+            "Feeling tired or sleepy."
+        ]
+    },
+    {
+        "title": "Anxiety",
+        "description": "Anxiety is a natural response to stress or perceived threats, often characterized by feelings of uneasiness, worry, and nervousness. While mild anxiety can be normal and even helpful in some situations, excessive or chronic anxiety can become a mental health disorder, leading to significant distress and impairment in daily life. Common symptoms of anxiety include racing thoughts, restlessness, muscle tension, and a sense of impending danger or doom. Anxiety disorders, such as generalized anxiety disorder (GAD), panic disorder, and social anxiety disorder, are diagnosable conditions that may require treatment, which can include therapy, medication, or a combination of both. Managing anxiety often involves learning coping strategies and stress-reduction techniques to improve overall well-being.",
+        "systoms": [
+            "Worry about things that are not important for you. ",
+            "Thinking about the future.",
+            "Fear of missing out on something good because it is too hard/difficult to do so.",
+            "Thoughts of death.",
+            "Suicidal thoughts."
+        ]
+    }
+]
